@@ -18,8 +18,13 @@ There are following categories in the analysis:
 - Life Values
 - Language
 
+### 1. Followers Distribution By Sex and Age
+The first two categories that have been examined are age and sex. All followers who mentioned year of birth and sex in their public profile at VK have been selected for examination. The result are as follows: 
 
-<image src="/plots/age.png" alt="Текст с описанием картинки">
+<image src="/plots/age_and_sex.png" alt="Followers Distribution By Sex and Age">
+
+
+
 
 
 
