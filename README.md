@@ -47,7 +47,9 @@ With regards to followers relation status, significant part of examined users pr
 
 
 ## 4. Followers Distribution By Bad Habits
+Next it would be great to see how healthy community followers are. In order to achieve this there was examination of followers in terms of their bad habits like smoking and drinking alcohol beverages. Distributions were based on followers who mentioned their attitude to smoking and alcohol in own profile. Both charts demonstrated that mostly people are absolutely neutral to these harmful habits.
 
+<image src="/plots/smoking_and_alco.png" alt="Followers Distribution By Their Attitude to Bad Habits">
 
 
 
