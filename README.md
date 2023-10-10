@@ -47,9 +47,17 @@ With regards to followers relation status, significant part of examined users pr
 
 
 ## 4. Followers Distribution By Bad Habits
-Next it would be great to see how healthy community followers are. In order to achieve this there was examination of followers in terms of their bad habits like smoking and drinking alcohol beverages. Distributions were based on followers who mentioned their attitude to smoking and alcohol in own profile. Both charts demonstrated that mostly people are absolutely neutral to these harmful habits.
+Next it would be great to see how healthy community followers are. In order to achieve this there was examination of followers in terms of their bad habits like smoking and drinking alcohol beverages. Distributions were based on followers who mentioned their attitude to smoking and alcohol in own profile. Both charts demonstrated that mostly people are absolutely neutral to these harmful habits (Picture 4).
 
 <image src="/plots/smoking_and_alco.png" alt="Followers Distribution By Their Attitude to Bad Habits">
+
+## 5. Followers Distribution By Political Views
+
+The following chart shows the difference between users when it comes to their attitudes towards politics. The vast majority profess moderate political views. Also, equal share of followers are adepts of socialism and liberalism, while libertarianism has the least popularity among followers (Picture 5)
+
+<image src="/plots/political_views.png" alt="Followers Distribution By Their Political Views">
+
+
 
 
 
