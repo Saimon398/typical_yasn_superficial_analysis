@@ -47,11 +47,29 @@ With regards to followers relation status, significant part of examined users pr
 
 
 ## 4. Followers Distribution By Bad Habits
-Next it would be great to see how healthy community followers are. In order to achieve this there was examination of followers in terms of their bad habits like smoking and drinking alcohol beverages. Distributions were based on followers who mentioned their attitude to smoking and alcohol in own profile. Both charts demonstrated that mostly people are absolutely neutral to these harmful habits.
+Next it would be great to see how healthy community followers are. In order to achieve this there was examination of followers in terms of their bad habits like smoking and drinking alcohol beverages. Distributions were based on followers who mentioned their attitude to smoking and alcohol in own profile. Both charts demonstrated that mostly people are absolutely neutral to these harmful habits (Picture 4).
 
 <image src="/plots/smoking_and_alco.png" alt="Followers Distribution By Their Attitude to Bad Habits">
 
+## 5. Followers Distribution By Political Views
 
+The following chart shows the difference between users when it comes to their attitudes towards politics. The vast majority profess moderate political views. Also, equal number of followers are adepts of socialism, communism, liberalism, while libertarianism has the least popularity among followers (Picture 5)
 
+<image src="/plots/political_views.png" alt="Followers Distribution By Their Political Views">
+
+## 6. Followers Distribution By People and Life Values
+
+Next pie charts can tell everything about our followers' characters. It can be seen that in case of life values the biggest "piece of pie" is taken by family, while such fields as entertainment and fame are insignificant. Also, fields like art and science do not have many adepts as well. Second chart demonstrates that the most part of followers prefers honesty and kindness as their life value and put wealth on a last place.
+Taking all things into consideration in can be concluded that most users prefer to follow conservative values during their entire life (Picture 6).
+
+<image src="/plots/life_people_values.png" alt="Followers Distribution By Their Life and People Values">
+
+## 7. Followers Distribution By Languages
+
+As it can be seen Yasnogorsk is multinational town. People from all around the world live there and this point can be proved by the following chart (Picture 7). Turned out that there are so many languages followers can speak, so most popular languages were distinct. 
+
+<image src="/plots/popular_languages.png" alt="Followers Distribution By Their Life and People Values">
+
+ 
 
 
