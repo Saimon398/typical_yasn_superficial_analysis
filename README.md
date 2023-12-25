@@ -1,4 +1,4 @@
-# Superficial Analysis of VK Community "Typical Yasnogorsk"
+# Анализ предпочтений пользователей ВК-сообщества "Типичный Ясногорск"
 
 Okey, firstly you might want to know what the Yasnogorsk is...and it will be absolutely relevant question. Yasnogorsk is a small town which is located nearly Tula Region (Russia). Population of this these tiny territories estimates approximately 20000 people. There is no much media sources like the biggest cities have - only couple of local newspapers that can not provide latest information. However local citizens always know where they can get valid information about what is going in town. That place called [**Typical Yasnogorsk** ](https://vk.com/typical_yasnogorsk)
 
