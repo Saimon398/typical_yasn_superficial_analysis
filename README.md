@@ -1,22 +1,22 @@
 # Анализ предпочтений пользователей ВК-сообщества "Типичный Ясногорск"
 
-Okey, firstly you might want to know what the Yasnogorsk is...and it will be absolutely relevant question. Yasnogorsk is a small town which is located nearly Tula Region (Russia). Population of this these tiny territories estimates approximately 20000 people. There is no much media sources like the biggest cities have - only couple of local newspapers that can not provide latest information. However local citizens always know where they can get valid information about what is going in town. That place called [**Typical Yasnogorsk** ](https://vk.com/typical_yasnogorsk)
+Итак, для начала вы, возможно, захотите узнать, что такое Ясногорск... и это будет абсолютно актуальный вопрос. Ясногорск - это небольшой городок, который находится почти в Тульской области (Россия). Население этих крошечных территорий насчитывает около 20000 человек. Здесь нет большого количества средств массовой информации, как в крупных городах, - только пара местных газет, которые не могут предоставить самую свежую информацию. Однако местные жители всегда знают, где можно получить достоверную информацию о том, что происходит в городе. Это место называется [**Типичный Ясногорск** ](https://vk.com/typical_yasnogorsk)
 
-This is public community in VK. People who live their town can get freshest information about everything that happened in their town. The main purpose of this superficial analysis was to demonstrate how  different and interesting followers of this community are. 
+Это сообщество в социальной сети ВК. Люди, живущие в городе с одноименным названием, могут получать самую свежую информацию обо всем, что в нем происходит. Основной целью этого поверхностного анализа распределения пользователей было показать, насколько разными и интересными являются участники этого сообщества. 
 
-Data for exploration has been taken by VK API (using **Implicit Flow** Token for authorization). Subsets for observed categories have been selected based on the presence of corresponding value for certain categories. Original Data and Plots you can find by this [link]()
+Данные для исследования были получены с помощью VK API (с использованием **Implicit Flow** Token для авторизации). Объемы анализируемых значений могут различаться от переменной к переменной. Размер данных для наблюдаемых категориальных переменных был выбран на основе наличия соответствующего значения для определенных категориальных переменных. Оригинальные данные и графики вы можете найти по этой [ссылке]()
 
-There are following categories in the analysis: 
-- Age
-- Sex
-- Age Categories 
-- Current City
-- Relation
-- Bad Habits
-- Political Views
-- People Values
-- Life Values
-- Language
+Анализу подвергаются следующие категориальные переменные: 
+- Возраст
+- Пол
+- Возрастные категории 
+- Текущий город проживания
+- Отношения
+- Вредные привычки
+- Политические взгляды
+- Ценности людей
+- Жизненные ценности
+- Язык
 
 ## 1. Followers Distribution By Sex and Age
 
