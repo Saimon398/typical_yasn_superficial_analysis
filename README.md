@@ -41,34 +41,34 @@
 
 ## 3. Распределение пользователей по их семейному статусу
 
-With regards to followers relation status, significant part of examined users prefers not to say about their relationship (or just does not know hot to work with profile statutes). Subsequently, the widest bar on the diagram is "unknown". However, there are also a lot of followers who preferred to expose their relationship status (and even mentioned their partner). Results of this distribution are demonstrated below (Picture 3)
+Что касается статуса отношений пользователей, то значительная часть исследуемых пользователей предпочитает не говорить о своих отношениях (или просто не знает, как работать со статусами профиля). Соответственно, самая широкая полоса на диаграмме - "неизвестно". Однако есть и немало подписчиков, которые предпочли раскрыть свой статус отношений (и даже упомянули своего партнера). Результаты такого распределения показаны ниже (Рисунок 4)
 
-<image src="/plots/relation.png" alt="Followers Distribution By Their Relation Status">
+<image src="/plots/relation" alt="Распределение пользователей по их семейному статусу">
 
 
-## 4. Followers Distribution By Bad Habits
-Next it would be great to see how healthy community followers are. In order to achieve this there was examination of followers in terms of their bad habits like smoking and drinking alcohol beverages. Distributions were based on followers who mentioned their attitude to smoking and alcohol in own profile. Both charts demonstrated that mostly people are absolutely neutral to these harmful habits (Picture 4).
+## 4. Распределение пользователей по их отношению к вредным привычкам
+Далее было бы здорово узнать, насколько последователи сообщества следят за своим здоровьем. Для этого было проведено исследование пользователей сообщества на предмет наличия у них вредных привычек, таких как курение и употребление алкогольных напитков. Распределения визуализировались только на тех пользователях, которые указали свое отношение к курению и алкоголю в собственном профиле. Обе диаграммы показали, что большинство людей абсолютно нейтрально относятся к этим вредным привычкам (Рисунок 5).
 
-<image src="/plots/smoking_and_alco.png" alt="Followers Distribution By Their Attitude to Bad Habits">
+<image src="/plots/harmful_habits" alt="Распределение пользователей по их отношению к вредным привычкам">
 
-## 5. Followers Distribution By Political Views
+## 5. Распределение пользователей по их политическим взглядам
 
-The following chart shows the difference between users when it comes to their attitudes towards politics. The vast majority profess moderate political views. Also, equal number of followers are adepts of socialism, communism, liberalism, while libertarianism has the least popularity among followers (Picture 5)
+Следующая диаграмма демонстрирует различия пользователей, когда речь идет об их отношении к политике. Подавляющее большинство исповедует умеренные политические взгляды. Кроме того, равное количество пользователей являются приверженцами социализма, коммунизма, либерализма, в то время как либертарианство пользуется наименьшей популярностью среди пользователей (Рисунок 6).
 
-<image src="/plots/political_views.png" alt="Followers Distribution By Their Political Views">
+<image src="/plots/political_views" alt="Распределение пользователей по их политическим взглядам">
 
-## 6. Followers Distribution By People and Life Values
+## 6. Распределение пользователей по их отношению к жизненным и человеческим ценностям
 
-Next pie charts can tell everything about our followers' characters. It can be seen that in case of life values the biggest "piece of pie" is taken by family, while such fields as entertainment and fame are insignificant. Also, fields like art and science do not have many adepts as well. Second chart demonstrates that the most part of followers prefers honesty and kindness as their life value and put wealth on a last place.
-Taking all things into consideration in can be concluded that most users prefer to follow conservative values during their entire life (Picture 6).
+Следующая визуализация может рассказать все о характерах наших последователей. Видно, что в случае жизненных ценностей наибольший процент пользователей выбирает семейные ценности, а такие сферы, как развлечения и слава, незначительны. Также не так много адептов у таких сфер, как искусство и наука. Вторая диаграмма демонстрирует, что большая часть последователей предпочитает честность и доброту в качестве жизненной ценности и ставит богатство на последнее место.
+Учитывая все вышесказанное, можно сделать вывод, что участники сообщества предпочитают придерживаться консервативных ценностей на протяжении всей своей жизни (Рисунок 7).
 
-<image src="/plots/life_people_values.png" alt="Followers Distribution By Their Life and People Values">
+<image src="/plots/life_and_human_values" alt="Распределение пользователей по их отношению к жизненным и человеческим ценностям">
 
-## 7. Followers Distribution By Languages
+## 7. Распределение пользователей по владению языками
 
-As it can be seen Yasnogorsk is multinational town. People from all around the world live there and this point can be proved by the following chart (Picture 7). Turned out that there are so many languages followers can speak, so most popular languages were distinct. 
+Как видно, Ясногорск - многонациональный город. В нем живут люди со всего мира, и этот факт можно подтвердить следующей диаграммой (Рисунок 8). Оказалось, что в Ясногорске очень много языков, на которых могут говорить жители, поэтому наиболее популярные языки были выделены отдельно.
 
-<image src="/plots/popular_languages.png" alt="Followers Distribution By Their Life and People Values">
+<image src="/plots/languages" alt="Распределение пользователей по владению языками">
 
  
 
