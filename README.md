@@ -24,22 +24,22 @@
 
 <image src="/plots/sex_and_age" alt="Распределение пользователей по возрасту и полу">
 
-Также пользователи были разделены по возрастным категориям со следующими возрастными требованиями (Таблица 1). Большинство подписчиков относится к **взрослой категории**, что неудивительно. 
+Также пользователи были разделены по возрастным категориям со следующими возрастными требованиями (Таблица 1). Большинство подписчиков относится к **взрослой категории**, что неудивительно (Рисунок 2). 
 
 #### Таблица 1 - Распределение пользователей по возрастным категориям
 | до 12 | 12-18|18-65  |старше 65  |
 |:--:|:--:|:--:|:--:|
 |  Дети|Подростки  | Взрослые |Пожилые |
 
-<image src="/plots/" alt="Followers Distribution By Age Category">
+<image src="/plots/age_cats" alt="Распределение пользователй по возрастным категориям">
 
-## 2. Followers Distribution By Current City
+## 2. Распределение пользователей по текущему городу проживания
 
-Next category followers were examined by is distribution according to their current place for a living. Spread in values was significant that was the primary reason why only first ten cities were presented on bar chart. It is obvious that the main part of community followers lives in [Yasnogorsk](https://ru.wikipedia.org/wiki/%D0%AF%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA_(%D0%A2%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)) (Picture 2). Other cities with silver and bronze medals in this distribution are Tula and Moscow which can lead us to conclusion that the majority of followers don't like moving far from Yasnogorsk and prefer to live nearly. 
+Следующая категория, которая была рассмотрена, - это распределение пользователей по их текущему месту жительства. Разброс значений был значительным, что и послужило основной причиной того, что на гистограмме были представлены только первые десять городов. Очевидно, что основная часть участников сообщества проживает в [Ясногорске](https://ru.wikipedia.org/wiki/%D0%AF%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA_(%D0%A2%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)) (Рисунок 3). Другие города с серебряной и бронзовой медалями в этом распределении - Тула и Москва, из чего можно сделать вывод, что большинство жителей не любят переезжать далеко от Ясногорска и предпочитают жить рядом. 
 
-<image src="/plots/city_distribution.png" alt="Followers Distribution By Current City">
+<image src="/plots/current_city" alt="Распределение пользователей по их текущему городу проживания">
 
-## 3. Followers Distribution By Relation
+## 3. Распределение пользователей по их семейному статусу
 
 With regards to followers relation status, significant part of examined users prefers not to say about their relationship (or just does not know hot to work with profile statutes). Subsequently, the widest bar on the diagram is "unknown". However, there are also a lot of followers who preferred to expose their relationship status (and even mentioned their partner). Results of this distribution are demonstrated below (Picture 3)
 
